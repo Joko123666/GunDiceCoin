@@ -426,8 +426,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
-  m_Type: 0
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -583,8 +583,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
-  m_Type: 0
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -2100,7 +2100,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: 00ffea48d22fb444d93444c7d3728372, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -2108,7 +2108,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 6185612223912012296, guid: f7366e32afe31a14985326aea852c1ee, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2258,7 +2258,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 7382852828464250229, guid: 35e643437005d244f9fab4f8084fe382, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2645,7 +2645,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: 00ffea48d22fb444d93444c7d3728372, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -2653,7 +2653,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: -977541745348446165, guid: 7131550993577ed4a87bcc7d623f840a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2707,15 +2707,15 @@ MonoBehaviour:
   audioSource: {fileID: 0}
   heartbeatClip: {fileID: 0}
   breathingClip: {fileID: 0}
-  gunshotClip: {fileID: 0}
+  gunshotClip: {fileID: 8300000, guid: 5c1e17cb3300309498788192b85f1493, type: 3}
   sighClip: {fileID: 0}
-  coinClip: {fileID: 0}
+  coinClip: {fileID: 8300000, guid: 5c4a67b06ec3e7f41a43676efb7d8a43, type: 3}
   triggerTokenContainer: {fileID: 0}
   triggerTokenPrefab: {fileID: 313241918116531309, guid: 3e167e44eaf735e439cffe2bc21f2d04, type: 3}
   coinStackContainer: {fileID: 0}
   coinStackPrefab: {fileID: 7764778388282009530, guid: cb07cbf1221f39f4781d0891a6c52aed, type: 3}
   potText: {fileID: 0}
-  coinFailClip: {fileID: 0}
+  coinFailClip: {fileID: 8300000, guid: 5c4a67b06ec3e7f41a43676efb7d8a43, type: 3}
 --- !u!82 &1092216241
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2887,8 +2887,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
-  m_Type: 0
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -3108,7 +3108,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -58852.113, y: 58352.11}
+  m_AnchoredPosition: {x: -92849.07, y: 92349.06}
   m_SizeDelta: {x: 0, y: 300}
   m_Pivot: {x: 0, y: 1}
 --- !u!1 &1277000381
@@ -3420,7 +3420,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 9094963514038271477, guid: cdd552230e7f7224aa1f5d06f350c6f8, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3495,7 +3495,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 9094963514038271477, guid: cdd552230e7f7224aa1f5d06f350c6f8, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4034,9 +4034,9 @@ MonoBehaviour:
   breathingClip: {fileID: 0}
   gunshotClip: {fileID: 0}
   sighClip: {fileID: 0}
-  coinClip: {fileID: 0}
-  diceClip: {fileID: 0}
-  coinFailClip: {fileID: 0}
+  coinClip: {fileID: 8300000, guid: 5c4a67b06ec3e7f41a43676efb7d8a43, type: 3}
+  diceClip: {fileID: 8300000, guid: c4b77026595d1a44aa28d489ba71a3a2, type: 3}
+  coinFailClip: {fileID: 8300000, guid: 2774208e665fc904ab42b49ecca85a16, type: 3}
 --- !u!95 &1667892208
 Animator:
   serializedVersion: 7
@@ -4228,7 +4228,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 2752357686600164740, guid: 4db7be3abc2e1dc4eb3f0f41fca795e1, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
